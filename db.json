@@ -1,8 +1,5 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "oauth2": [
+   "oauth2": [
     {
 	"id": "token",
    "access_token":"ACCESS_TOKEN",
@@ -10,11 +7,7 @@
    "token_type":"bearer",
    "refresh_token":"REFRESH_TOKEN"
 }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" },
+  ],  
   "folders": [{
       "type": "folder",
       "id": "90672",
